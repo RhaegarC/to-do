@@ -1,0 +1,10 @@
+{
+  "description": "Organize tasks, set reminders, and track progress in a simple to-do app for anyone seeking a dependable alternative to Microsoft To Do.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
